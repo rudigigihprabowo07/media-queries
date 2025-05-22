@@ -3,3 +3,10 @@ h1 {
     font-size: 80px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+@media (max-width: 1500px) {
+    h1 {
+        color: blue;
+        font-size: 60px;
+    }
+}
